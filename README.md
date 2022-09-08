@@ -29,6 +29,18 @@ Label:
     * Barren land: 255,255,255 - Mountain, land, rock, dessert, beach, no vegetation
     * Unknown: 0,0,0 - Clouds and others
 * File names for satellite images and the corresponding mask image are id _sat.jpg and id _mask.png. id is a randomized integer.
+## Methodology Overview
+The overall methodology of this expriment is as follows:
+
+1.   Download and explore data.
+2.   Load data.
+3.   Preprocess images where necessary.
+4.   Select and build appropriate network architecture.
+5.   Train on data and mask labels.
+6.   Test performance on validation dataset.
+7.   Tune parameters and hyperparameters of model where necessary.
+8.   Repeat steps 6 & 7 until we have reached satisfactory results.
+9.   Select the final trained model and test on test data.
 
 > Data citation:
 ```
