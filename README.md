@@ -1,4 +1,4 @@
-# Semantic-Segmentation-of-Areal-Imagery
+# Road Extraction from Areal-Imagery
 ## Motivation
 In our rapidly modernizing world, many areas of our Earth's land cover are being urbanized or turned into adjacent land use types like farms to support our growing population. These types of activities have a large negative impact on the precarious ecological and climate states of our planet.
 
